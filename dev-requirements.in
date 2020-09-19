@@ -1,0 +1,12 @@
+-c requirements.txt
+black
+calver
+flake8
+ipykernel
+isort
+mypy
+pre-commit
+pytest
+rstcheck
+twine
+wheel
